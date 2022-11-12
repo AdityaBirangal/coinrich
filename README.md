@@ -2,6 +2,20 @@
 
 Flutter App for CoinRich by Aditya Birangal
 
+Download APK : [http://go.birangal.com/coinrich](http://go.birangal.com/coinrich)  
+
+Note : Please add API Key in lib/services/crypto_api_repository.dart on line 6 while compiling on your system.
+
+<table style="width:100%">
+  <tr>
+    <th>CoinRich App</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/43909309/201497032-e4fd4679-af44-4b70-af88-8e220bf47d11.jpg"/></td>
+  </tr>
+</table>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
